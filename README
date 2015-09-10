@@ -1,0 +1,5 @@
+Recommendation Engine is a final semester project in NJIT. This was requested by our client who specializes on selling beauty products for women.
+
+How It Works
+A visitor will visit our client's website and answer a set of questions that are based on the visitor's likes, skintones, hairtype, etc. Based on the visitor's result, the recommendation engine will read it and run it on this formula that our client created and calculates it depending on what's the best product they can have by ranking.
+
